@@ -34,8 +34,8 @@ class CyberPunk:
         self.name = "modernotaku"
         self.role = "Digital Architect | Code Samurai | Data Wizard"
         self.location = "Sector 7, Neo-Tokyo"
-        self.languages = ["Python", "JavaScript", "Rust", "C++", "Go"]
-        self.expertise = ["AI/ML", "Blockchain", "Cybersecurity", "WebDev"]
+        self.languages = ["HTML", "JavaScricpt", "Python"]
+        self.expertise = ["AI Implementation, Code Security, Penatration Testing,]
         self.current_mission = "Building the future, one commit at a time"
         
     def get_status(self):
