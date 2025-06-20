@@ -74,7 +74,7 @@ class CyberPunk:
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
-<img src="https://skillicons.dev/icons?i=python,js,rust,cpp,go,react,vue,nodejs,docker,kubernetes,aws,gcp,tensorflow,pytorch,blockchain,solidity,linux,git,vim,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,vue,nodejs,aws,gcp,tensorflow,pytorch,blockchain,solidity,linux,git,vim,vscode&theme=dark" />
 
 **NEURAL IMPLANTS:**
 ```
