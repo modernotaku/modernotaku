@@ -31,7 +31,7 @@
 ```python
 class CyberPunk:
     def __init__(self):
-        self.name = "YOUR_HANDLE_HERE"
+        self.name = "modernotaku"
         self.role = "Digital Architect | Code Samurai | Data Wizard"
         self.location = "Sector 7, Neo-Tokyo"
         self.languages = ["Python", "JavaScript", "Rust", "C++", "Go"]
