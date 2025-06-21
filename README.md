@@ -11,7 +11,7 @@
     ║                                                                   ║
     ║  ┌─────────────────────────────────────────────────────────────┐  ║
     ║  │ > whoami                                                    │  ║
-    ║  │ root@cyberspace:~$ otakumodern                            │  ║
+    ║  │ root@cyberspace:~$ OtakuModern = Joshua J. Certain          │  ║
     ║  │ > cat /proc/hacker/bio                                      │  ║
     ║  │ STATUS: [ONLINE] | LOCATION: [ENCRYPTED] | CLEARANCE: [MAX] │  ║
     ║  └─────────────────────────────────────────────────────────────┘  ║
@@ -20,7 +20,7 @@
 
 </div>
 
-## 🌐 **NEURAL LINK ESTABLISHED** 🌐
+## 🌐 **THE HUB** 🌐
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
@@ -33,14 +33,14 @@ class CyberPunk:
     def __init__(self):
         self.name = "modernotaku"
         self.role = "Digital Architect | Code Samurai | Data Wizard"
-        self.location = "Sector 7, Neo-Tokyo"
+        self.location = "Sector 7, United States"
         self.languages = ["HTML", "JavaScricpt", "Python"]
         self.expertise = ["AI Implementation, Code Security, Penatration Testing,]
         self.current_mission = "Building the future, one commit at a time"
         
     def get_status(self):
         return {
-            "coffee_level": "MAXIMUM",
+            "coffee_level": "Max",
             "debugging_mode": True,
             "inspiration": "∞",
             "bugs_fixed": self.count_commits(),
